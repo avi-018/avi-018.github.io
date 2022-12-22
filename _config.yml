@@ -8,12 +8,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Radif Uddin Ahmed"
+title                    : "MST. NUSRAT YASMIN"
 title_separator          : "-"
-name                     : &name "Radif Uddin Ahmed"
+name                     : &name "MST. NUSRAT YASMIN"
 description              : &description "Chittagong University of Engineering and Technology"
-url                      : https://Radifuddinahmed.github.io/ # #https://avishek-018.github.io/radif-portfolio #http://127.0.0.1:4000/ #https://ricky-018.github.io #  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-production_url            : https://Radifuddinahmed.github.io/
+url                      : https://avi-018.github.io/
+production_url            : https://avi-018.github.io/
 baseurl                  : #"/radif-portfolio" # the subpath of your site, e.g. "/blog"
 repository               : "Radifuddinahmed/Radifuddinahmed.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,14 +82,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Radif Udding Ahmed"
-  avatar           : "Radif.jpg"
-  bio              : "Assistant Manager (Engineering Department), Renata Limited.<br><br> Graduate student at CUET-ME. Interested in Robotics & Machine Vision."
+  name             : "MST. NUSRAT YASMIN"
+  avatar           : "nusrat.jpg"
+  bio              : "Officer (Engineering Department), Healthcare Pharmaceutical Ltd. <br><br> Graduate student at CUET-ME. Interested in Additive Manufacturing, Material Science, Mechatronics and Rapid Prototyping with CAD."
   location         : "Dhaka, Bangladesh"
   employer         : #"Dhaka, Bangladesh"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : ""
-  email            : "radifuddinahmed@gmail.com"
+  email            : "nusratyasmin16@gmail.com"
   researchgate     :  ""
   uri              :
   bitbucket        :
