@@ -10,8 +10,9 @@ redirect_from:
  
 <table>
 <colgroup>
-  <col width="50%" />
-  <col width="50%" />
+  <col width="33%" />
+  <col width="33%" />
+  <col width="33%" />
 </colgroup>
 
   <tbody>
@@ -25,12 +26,18 @@ redirect_from:
         Email: baniksajal@cuet.ac.bd
       </td>
       <td>
-        <b>Dr.Md. Sanaul Rabbi</b><br>
-        <i>Professor</i><br>
+        <b>Dr. Md. Abu Mowazzem Hossain</b><br>
+        <i>Assistant Professor</i><br>
         Dept. of Mechanical Engineering, CUET<br>
-        M.Sc. in Mechatronics (CUET);<br>
-        PhD. In NDT (Saga University, Japan);<br>
-        Email: rabbi@cuet.ac.bd
+        M.Sc. in Mechanical Engineering (UOU, South Korea);<br>
+        PhD. In Additive Manufacturing (UOU, South Korea);<br>
+        Email: mowazzem@cuet.ac.bd
+      </td>
+       <td>
+        <b>Tapos Pal</b><br>
+        <i>Senior Officer</i><br>
+        Healthcare Pharmaceutical Ltd.<br>
+        Email: tapos.pal@hpl.com.bd<br><br><br>
       </td>
     </tr>
       
