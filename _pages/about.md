@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello, I'm Radif Uddin Ahmed!!!"
+title: "Hello, I'm MST. NUSRAT YASMIN !!!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -26,7 +26,7 @@ Currently, I am employed as maintenance and automation engineer at Renata Limite
 </p> 
  
 
-<b>Contact: 📧</b> [<font color= "#990033" >radifuddinahmed@gmail.com</font>](radifuddinahmed@gmail.com)
+<b>Contact: 📧</b> [<font color= "#990033" >nusratyasmin16@gmail.com</font>](nusratyasmin16@gmail.com)
 
-<b>My latest cv: </b> <a href="../files/CV_RadifUddinAhmed.pdf"><font color="#990033">CV_RadifUdidnAhmed</font></a>
+<b>My latest cv: </b> <a href="../files/CV_Mst.NusratYasmin.pdf"><font color="#990033">CV_Mst.NusratYasmin</font></a>
 
