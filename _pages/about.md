@@ -13,17 +13,15 @@ redirect_from:
   <b><font color="red"><h2> (Under Construction)</h2></font></b>
 </p>
 -->
-*A Robotics and Machine Vision enthusiast.*
+*A future robotics and mechatronics researcher..*
 
 <p align="justify">
 
-To be able to create and control something has always been my fascination from my early childhood. This fascination had turned into my obsession since I was introduced to microcontroller and robotics thanks to different voluntary technical organizations of my university. Luckily, I have got the opportunity to explore the versatile world of Robotics, Embedded Systems, and Additive Manufacturing through conducting voluntary research work, Attending lectures and participating in several national and international competitions. So, after four years of undergraduate studies I have earned my bachelor’s degree in Mechanical Engineering along with research experience in mechanical and mechatronics engineering.
+
+Since my childhood, I've been captivated by machines and mechanisms. So, I decided to study mechanical engineering during my undergrad. I got the chance to gain practical experience working in numerous volunteer robotics organizations. My passion for conducting research in the diversified fields of robotics, mechatronics, and additive manufacturing was intrigued by these experiences. Currently, I am working as an engineering officer for healthcare pharmaceutical ltd, where I am involved in the maintenance, validation, and automation of production machinery. 
+
 </p> 
  
-<p align="justify">
-Currently, I am employed as maintenance and automation engineer at Renata Limited. Here I had the opportunity to work in the field of industrial automation further expanding my knowledge in mechatronics engineering. My ongoing research is regarding machine vision and embedded machine vision which in turns introduced me to machine learning. From that moment on I was amazed by the posibilites of this field along with robotics hence I plan to take my knowledge to the farthest in this field. 
-
-</p> 
  
 
 <b>Contact: 📧</b> [<font color= "#990033" >nusratyasmin16@gmail.com</font>](nusratyasmin16@gmail.com)
